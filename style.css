@@ -609,7 +609,7 @@ header {
 .location-address {
   color: var(--clr-grey-4);
 }
-.phone-number {
+.location-phone-number {
   color: black;
   font-weight: bold;
 }
@@ -653,7 +653,6 @@ header {
 #contact {
   background: var(--clr-primary-12);
 }
-
 .contact-address-container p {
   color: black;
   font-weight: bold;

@@ -1,4 +1,4 @@
-A simple website inspired by "Coffee Junkie" HTML project, that is included in HTML/CSS course by John Smilga.
+A simple webpage inspired by "Coffee Junkie" HTML project, that is included in HTML/CSS course by John Smilga.
 
 Thanks, John Smilga, your courses are very helpful!
 

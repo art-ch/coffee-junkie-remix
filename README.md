@@ -1,4 +1,4 @@
-# Coffee Junkie Remix
+# [Coffee Junkie Remix](https://coffee-junkie-remix.netlify.app)
 
 A simple webpage inspired by "Coffee Junkie" HTML project, included in HTML/CSS course by John Smilga.
 

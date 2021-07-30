@@ -6,7 +6,7 @@ Inspired by "Coffee Junkie" HTML project, included in HTML/CSS course by John Sm
 
 # Side Note
 
-This project was created when I had almost zero knowledge about Javascript and I decided to preserve website that way.
+This project was created when I had zero knowledge about Javascript and I decided to preserve website that way.
 
 # Appretiation Note
 
